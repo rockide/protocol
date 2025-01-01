@@ -6,7 +6,7 @@ package protocol
 import (
 	"fmt"
 
-	"github.com/segmentio/encoding/json"
+	"encoding/json"
 )
 
 // CancelParams params of cancelRequest.
