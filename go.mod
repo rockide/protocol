@@ -1,4 +1,4 @@
-module go.lsp.dev/protocol
+module github.com/rockide/protocol
 
 go 1.22.2
 
